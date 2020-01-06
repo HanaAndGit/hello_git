@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		//브랜치
 		System.out.println("World's end Dancehall");
+		System.out.println("Conflict Test");
 	}
 }
