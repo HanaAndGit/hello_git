@@ -2,12 +2,14 @@ package hello_git;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		//마스터
+		//留덉뒪�꽣
 		System.out.println("Hello World");
-		//브랜치
+		//釉뚮옖移�
 		System.out.println("World's end Dancehall");
 		System.out.println("Earth's End DanceHall");
 		System.out.println("Conflict Test");
+		
+		System.out.println("Test 집");
 
 	}
 }
