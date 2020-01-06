@@ -9,7 +9,7 @@ public class HelloWorld {
 		System.out.println("Earth's End DanceHall");
 		System.out.println("Conflict Test");
 		
-		System.out.println("Test 집");
+		System.out.println("Test 집에서");
 
 	}
 }
