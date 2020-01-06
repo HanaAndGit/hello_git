@@ -11,6 +11,7 @@ public class HelloWorld {
 		
 		System.out.println("Test 집에서");
 		System.out.println("HotFix02 add");
+		System.out.println("Test 집에서 2");
 
 	}
 }
